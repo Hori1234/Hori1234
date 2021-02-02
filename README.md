@@ -34,12 +34,9 @@
 
 ---
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Hori1234's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Hori1234&show_icons=true&hide_border=true" />
-
-</details>
 
 [instagram]: https://instagram.com/horea_breazu
 [linkedin]: https://linkedin.com/in/horea_breazu
