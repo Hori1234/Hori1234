@@ -41,7 +41,5 @@
 
 </details>
 
-[website]:
-[youtube]:
 [instagram]: https://instagram.com/horea_breazu
 [linkedin]: https://linkedin.com/in/horea_breazu
