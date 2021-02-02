@@ -34,10 +34,13 @@
 
 ---
 
-  <summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Hori1234's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Hori1234&show_icons=true&hide_border=true" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hori1234)](https://github.com/Hori1234/github-readme-stats)
+<img align="left" alt="Hori1234's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Hori1234&show_icons=true&hide_border=true" />
+  
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hori1234)](https://github.com/Hori1234/github-readme-stats)
 
 [instagram]: https://instagram.com/horea_breazu
 [linkedin]: https://linkedin.com/in/horea_breazu
